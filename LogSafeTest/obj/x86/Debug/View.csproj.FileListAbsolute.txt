@@ -1,0 +1,117 @@
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\App.g.cs
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample_MarkupCompile.cache
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\Model.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ViewModel.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\Model.pdb
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ViewModel.pdb
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.g.resources
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.Properties.Resources.resources
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tulimyrsky\Desktop\dot net\testLogSafe\MediaPlayerMvvmSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\Model.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ViewModel.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\Model.pdb
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ViewModel.pdb
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\App.g.cs
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample_MarkupCompile.cache
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.g.resources
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\MediaPlayerMvvmSample.Properties.Resources.resources
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tulimyrsky\LogSafeTest\MediaPlayerMvvmSample\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\MediaPlayerMvvmSample.exe
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\MediaPlayerMvvmSample.pdb
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\Model.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ViewModel.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\Model.pdb
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ViewModel.pdb
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MainWindow.baml
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\App.g.cs
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MediaPlayerMvvmSample_MarkupCompile.cache
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MediaPlayerMvvmSample.g.resources
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\MediaPlayerMvvmSample.Properties.Resources.resources
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Tulimyrsky\LogSafeTest\LogSafeTest\obj\x86\Debug\GenerateResource.write.1.tlog
